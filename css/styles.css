@@ -100,7 +100,7 @@ padding: 50px 0 20px;
   height:120px;
   position:absolute;
   right:100px;
-  
+
 
 }
 .contact-message {
@@ -113,19 +113,14 @@ padding: 50px 0 20px;
   font-size: 0.75rem;
 }
 .btn {
-  background: #11cdd4;
-  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -ms-linear-gradient(top,#11cdd4, #11999e);
-  background-image: -o-linear-gradient(top, #11cdd3, #11999e);
-  background-image: linear(to bottom, #11cdd4, #11999e);
-  -webkit-border-radius: 8px;
-  -moz-border-radius: 8px;
-  border-radius: 8px;
-  font-family: 'Montserrat', sans-serif ;
+  padding: 5px;
+  font-size: 19px;
+  border-width: 1px;
+  border-color: #11999e;
+  background-color: #11cdd4;
   color: #ffffff;
-  font-size 20px;
-  padding: 10px 20px 10px 20px;
+  border-style: solid;
+  border-radius: 10px;
 }
 
 .btn:hover {
